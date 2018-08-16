@@ -139,3 +139,5 @@ public class EarthquakeActivity extends AppCompatActivity
         mAdapter.clear();
     }
 }
+
+//final changes added project complete
